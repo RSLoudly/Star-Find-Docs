@@ -140,14 +140,6 @@
 ![PGT Map](<images/pgt.png>)
 
 
-## **TUSK** - [Tuska](<https://runescape.wiki/w/Tuska>)
-2 locations
-> **TUSK-N** - Tuska North  
- **TUSK-S** - Tuska South  
-
-![TUSK Map](<images/tusk.png>)
-
-
 ## **WILD** - [Wilderness](<https://runescape.wiki/w/Wilderness>)
 6 locations
 > **HOBS** - lvl 35 hobgoblin mine  

@@ -17,7 +17,6 @@ _Each region has several landing locations._
 **Mena** = Menaphos  
 **Mist** = Misthalin  
 **PGT** = Piscatoris/Gnome Stronghold/Tirannwn  
-**Tusk** = Tuska  
 **Wild** = Wilderness  
 ---
 
@@ -80,8 +79,6 @@ _Alphabetical list of All Locations_
 **SHILO** - Shilo Village gem mine  
 **SM** - lvl 10 skeleton mine  
 **SWK** - South West Khazard, north of Yanille bank  
-**TUSK-N** - Tuska North  
-**TUSK-S** - Tuska South  
 **UZER** - Uzer mine, n.e.  
 **VULT** - vulture mine  
 **WF** - west Falador mine  
