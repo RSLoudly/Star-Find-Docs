@@ -41,11 +41,13 @@ theme:
       accent: purple 
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - toc:
       permalink: true
+
 
 plugins:
   - search
@@ -59,4 +61,5 @@ nav:
   # - 'Guide': guide.md
   # - 'Friends Chat': friendschat.md
   - 'Join our Discord': https://discord.gg/M2pZfDqzzp
+
 
